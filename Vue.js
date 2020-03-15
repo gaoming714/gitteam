@@ -1,0 +1,5 @@
+load vue
+
+funtion foo(){
+
+}
