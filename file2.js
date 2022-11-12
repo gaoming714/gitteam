@@ -1,2 +1,2 @@
 const file1
-const file2 0x002
+const file2
